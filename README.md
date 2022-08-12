@@ -1,5 +1,6 @@
 # conll2002-ner
 
-Quick demo of Name-Entity-Tagging with hugging-face transformers.
-model used: xlm-roberta-base
-dataset: custom dataset 
+## Quick demo of Name-Entity-Tagging with hugging-face transformers.
+* model used: xlm-roberta-base
+* dataset: custom dataset 
+* datatype: Conll 2002, BIO format
